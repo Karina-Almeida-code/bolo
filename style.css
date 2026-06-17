@@ -57,7 +57,7 @@ background-size:cover;
 background-position:center;
 display:flex;
 align-items:center;
-justify-content:center;
+justify-content: flex-start;
 text-align:center;
 color:white;
 padding:20px;
@@ -68,7 +68,7 @@ max-width:700px;
 }
 
 .hero h1{
-font-size:4rem;
+font-size:3.5rem;
 margin:20px 0;
 }
 
